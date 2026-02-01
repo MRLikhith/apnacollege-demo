@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first repository.
-Author - Likhith
+Author - Likhith (apna college)
